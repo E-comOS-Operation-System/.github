@@ -28,6 +28,6 @@ g.E-comOS Mail List Manager (saladin131211@gmail.com)<br>
 If you are user , want to feedback , please send email to mail list <e-comos-user-feedback@groups.io>
 ## Release Notes
 **Nothing here now!** <br>
---------------------------------END OF THE PASSAGE--------------------------------<br>
---------------------------------Developer Signature-------------------------------<br>
+## --------------------------------END OF THE PASSAGE--------------------------------<br>
+## --------------------------------Developer Signature-------------------------------<br>
 ----Saladin5101 Oct 23 ,2025 1:45PM UTC+0800
