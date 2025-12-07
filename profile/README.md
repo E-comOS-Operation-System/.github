@@ -20,14 +20,7 @@ The email will be forwarded to the corresponding email for handling, and you’l
 (This service is provided free of charge by Cloudflare)
 ### In here , how can you do
 "Don't Panic!" This sentence appears repeatedly on the cover of "The Hitchhiker's Guide to the Galaxy". We also want to quote this sentence.<br>
-If you are developer , you can send an( or more) email(s) to :<br>
-a.E-comOS User Mode Team Main Manager or E-comOS Kernel Team(dev@saladin510-orangeyouhome-erath.online)<br>
-b.E-comOS User Mode Team Drivers Group (drivers@usermode-groups.saladin510-orangeyouhome-erath.online)<br>
-c.E-comOS User Mode Team GUI Group (gui_work@usermode-groups.saladin510-orangeyouhome-erath.online)<br>
-d.E-comOS User Mode Team System Components Group (c@usermode-groups.saladin510-orangeyouhome-erath.online)<br>
-e.E-comOS RUI Team (ui_mail@saladin510-orangeyouhome-erath.online)<br>
-g.E-comOS Mail List Manager (saladin131211@gmail.com)<br>
-If you are user , want to feedback , please send email to mail list <e-comos-user-feedback@groups.io>
+Want to feedback , please send email to mail list <e-comos-user-feedback@groups.io>
 ## Release Notes
 **Nothing here now!** <br>
 
