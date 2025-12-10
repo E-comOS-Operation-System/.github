@@ -15,7 +15,7 @@ You can break this project down into three parts:<br>
 **Some things we have to do ourselves because we are not trying to be a "Unix-like" system**
 ## How to join us
 Well, if you really want to join, please contact us through this channel:<br>
-Email :admin@saladin510-orangeyouhome-erath.online<br>
+Email : saladin131211@gmail.com<br>
 The email will be forwarded to the corresponding email for handling, and you’ll receive a reply as soon as possible.<br>
 (This service is provided free of charge by Cloudflare)
 ### In here , how can you do
