@@ -16,11 +16,11 @@ You can break this project down into three parts:<br>
 ## How to join us
 Well, if you really want to join, please contact us through this channel:<br>
 Email : <e-comos-kernel@groups.io><br>
-This mailing list address is working for kernel's works. 
-For user space software please send email to 
-Email: <ecomos-user-team@googlegroups.com>
-For drivers problem, patches or others about drivers. 
-Email: <e-comos-drivers@googlegroups.com> 
+This mailing list address is working for kernel's works.<br>
+For user space software please send email to <br>
+Email: <ecomos-user-team@googlegroups.com><br>
+For drivers problem, patches or others about drivers. <br>
+Email: <e-comos-drivers@googlegroups.com> <br>
 But website problem see <e-comos-website@groups.io><br>
 We DO NOT support pull request, if you open a pull request we will close it.
 ### In here , how can you do
