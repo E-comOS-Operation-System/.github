@@ -5,14 +5,14 @@ Our goal is to build a practical, universal operating system that serves as many
 We’re not here to chase an impossible 'support every device ever made' dream—because that’s how messy, unmaintainable codebases (the kind we all hate) get started. For example: A 1990s computer, with its outdated instruction sets and tiny RAM, would require endless hacky workarounds just to run basic 2025 software (like streaming YouTube). That’s not 'letting go' of old devices—it’s choosing not to bury our core features under layers of legacy compatibility code.<br>
 E-comOS focuses on devices where our work matters most: those that can still benefit from a lightweight, free OS without forcing us to maintain a 'code mountain' of one-off fixes. A computer’s worth isn’t about its age—it’s about whether making it run well is a sustainable, rewarding effort for our small team.<br>
 ### E-comOS's core philosophy
-As a microkernel, E-comOS's most important characteristic is its "micro" rather than its "all-encompassing" nature. A few weeks after the project started, we established E-comOS's ultimate philosophy : **everything is a process, everything is an object, everything is a service.**
+As a microkernel, E-comOS's most important characteristic is its "micro" rather than its "all-encompassing" nature. A few weeks after the project started, we established E-comOS's ultimate philosophy : **I give you all you need** and **You just need to think what do you want to do**(tell the truth, maybe).
 ## The structure of this project
 You can break this project down into three parts:<br>
  E-comOS Oparation System Project<br>
 |- E-comOS Oparation System Kernel Project<br>
 |- E-comOS Operating System Component Project<br>
 |_ E-comOS Operating System Component (GUI) Project — RUI<br>
-**Some things we have to do ourselves because we are not trying to be a "Unix-like" system**
+**We hope we can give you all you need**, because developers change from POSIX to SLFD is difficult.
 ## How to join us
 Well, if you really want to join, please contact us through this channel:<br>
 Email : <e-comos-kernel@groups.io><br>
